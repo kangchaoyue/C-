@@ -1,4 +1,5 @@
-qqqqqq qwer
+<<<<<<< HEAD
+qqqqqq qweri
 qqweqwe
 dffdfd
 @@@@@
